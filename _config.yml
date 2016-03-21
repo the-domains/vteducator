@@ -1,7 +1,7 @@
 name: VTEducator
 favicon: null
 layout_spectrum: 0.2193497563712299
-typography_spectrum: 0.9670881680212915
+typography_spectrum: 0.91233
 cta:
   domain: null
   bucket: null
@@ -24,5 +24,5 @@ color:
   brandStrength: 0.75
   lightness: 0.7935305738355964
   saturation: 0.3054811672773212
-  rhythmicContrast: 0.03997568739578128
+  rhythmicContrast: 0
 purpose: []
