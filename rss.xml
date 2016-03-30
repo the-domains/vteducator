@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[VTEducator]]></title>
-        <description><![CDATA[VTEducator]]></description>
+        <title><![CDATA[VT  Educator]]></title>
+        <description><![CDATA[VT  Educator]]></description>
         <link>http://vteducator.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 00:12:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2016 18:15:11 GMT</lastBuildDate>
         <atom:link href="http://vteducator.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The latest Tweets from Jeff Badillo (@Jeff_Badillo). Educator, runner, coach, father, husband, proud citizen. RT ≠ endorsement. Vermont</p>]]></description>
+            <link>https://twitter.com/Jeff_Badillo?lang=en</link>
+            <guid isPermaLink="false">d288ec54-2205-441a-8203-5d83451339b8</guid>
+            <pubDate>Wed, 30 Mar 2016 18:14:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Designing VTEducator</p>]]></description>
