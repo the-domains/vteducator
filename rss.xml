@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[VT  Educator]]></title>
         <description><![CDATA[VT  Educator]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://vteducator.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 18:42:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 10 May 2016 18:59:37 GMT</lastBuildDate>
+        <atom:link href="http://vteducator.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>A great issue for Vermont to tackle with PLP implementation:https://twitter.com/ElijahHawkes/status/729839714493186048 ...</p>]]></description>
+            <link>https://twitter.com/innovativeEd/status/730007141529092096</link>
+            <guid isPermaLink="false">18faf72d-7b6d-44ae-bfa4-75272c0eb9fd</guid>
+            <pubDate>Tue, 10 May 2016 18:59:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Designing An Open Education System, May 9, 2016]]></title>
-            <description><![CDATA[<article><h1>Designing An Open Education System, May 9, 2016</h1><p>Here is a presentation I recently made to the Chittenden South Supervisory Union leadership team, a group of very talented educational leaders. The presentation gave me the opportunity to think more deeply about incorporating Open Education as a design element for systems change in school districts.</p><img src="http://blog.dmfrench.org/wp-content/uploads/2013/01/99420-IcefloeSTA969x250.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Designing An Open Education System, May 9, 2016</h1><p>Here is a presentation I recently made to the Chittenden South Supervisory Union leadership team, a group of very talented educational leaders. The presentation gave me the opportunity to think more deeply about incorporating Open Education as a design element for systems change in school districts.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2df68c07064e5fd556606627b72296480dafe28d.jpg"></article>]]></description>
             <link>http://blog.dmfrench.org/?p=534</link>
             <guid isPermaLink="false">65cc0637-4bd2-4412-a2da-7720649f8705</guid>
             <pubDate>Tue, 10 May 2016 18:42:24 GMT</pubDate>
