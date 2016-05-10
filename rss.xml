@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[VT  Educator]]></title>
+        <description><![CDATA[VT  Educator]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 10 May 2016 18:42:47 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Designing An Open Education System, May 9, 2016]]></title>
+            <description><![CDATA[<article><h1>Designing An Open Education System, May 9, 2016</h1><p>Here is a presentation I recently made to the Chittenden South Supervisory Union leadership team, a group of very talented educational leaders. The presentation gave me the opportunity to think more deeply about incorporating Open Education as a design element for systems change in school districts.</p><img src="http://blog.dmfrench.org/wp-content/uploads/2013/01/99420-IcefloeSTA969x250.jpg"></article>]]></description>
+            <link>http://blog.dmfrench.org/?p=534</link>
+            <guid isPermaLink="false">65cc0637-4bd2-4412-a2da-7720649f8705</guid>
+            <pubDate>Tue, 10 May 2016 18:42:24 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
