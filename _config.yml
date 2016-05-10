@@ -1,5 +1,8 @@
+name: VT Educator
+favicon: null
+layout_spectrum: 0.25723
+typography_spectrum: 0.84227
 title: VT  Educator
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.3054811672773212
-  brandStrength: 0
-  rhythmicContrast: 0.5
   brandColors:
     - '#ffffff'
     - '#92bd3f'
     - '#729356'
     - '#426139'
     - '#c8de9f'
+  brandStrength: 0
   lightness: 0.5
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: VT Educator
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.819149
-layout_spectrum: 1
+  saturation: 0.3054811672773212
+  rhythmicContrast: 0.5
+purpose: []
