@@ -15,8 +15,8 @@ keywords:
   - nelms35
   - stboatervt
 description: 'The latest Tweets from Jeff Badillo (@Jeff_Badillo). Educator, runner, coach, father, husband, proud citizen. RT ≠ endorsement. Vermont'
-datePublished: '2016-05-11T13:23:07.338Z'
-dateModified: '2016-05-11T13:23:05.698Z'
+datePublished: '2016-05-11T13:25:38.035Z'
+dateModified: '2016-05-11T13:23:16.127Z'
 author:
   - avatar: {}
 related: []
