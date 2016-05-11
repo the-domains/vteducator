@@ -1,7 +1,8 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://middlegradescollaborative.org/middle-grades-institute-2016.html'
 inLanguage: en
 keywords:
   - learning
@@ -15,8 +16,8 @@ keywords:
   - students
   - adolescents
 description: "With Personalized Learning Plans (PLPs) mandated for Vermont middle and high schools starting last fall, this summer's institute will explore how teachers, teams and schools can develop flexible pathways that are developmentally appropriate for middle grades students. During the week, participants will attend sessions held specifically for their strand, as well as sessions held for all institute participants."
-datePublished: '2016-05-11T12:36:19.652Z'
-dateModified: '2016-05-11T12:36:12.154Z'
+datePublished: '2016-05-11T14:16:12.067Z'
+dateModified: '2016-05-11T14:14:08.976Z'
 author:
   - name: ''
     url: ''
@@ -31,7 +32,6 @@ publisher:
   url: 'http://middlegradescollaborative.org'
   favicon: 'http://middlegradescollaborative.org/images/favicons/favicon.ico'
 starred: false
-url: middle-grades-collaborative/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
