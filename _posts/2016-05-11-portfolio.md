@@ -1,23 +1,27 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://portfolio.vteducator.com'
-  name: Portfolio
-  favicon: null
-  domain: portfolio.vteducator.com
+inFeed: false
+hasPage: true
+inNav: true
+inLanguage: null
 keywords: []
 description: Technology Integration Leader
+datePublished: '2016-05-11T13:27:29.735Z'
+dateModified: '2016-05-11T13:22:43.422Z'
+author:
+  - name: ''
+    url: ''
+related: []
 app_links: []
-isBasedOnUrl: 'http://portfolio.vteducator.com/'
 title: Portfolio
-datePublished: '2016-05-11T13:22:34.685Z'
-dateModified: '2016-05-11T13:20:32.654Z'
-starred: false
 sourcePath: _posts/2016-05-11-portfolio.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Portfolio
+  domain: portfolio.vteducator.com
+  url: 'http://portfolio.vteducator.com'
+  favicon: null
+starred: false
+url: portfolio/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
