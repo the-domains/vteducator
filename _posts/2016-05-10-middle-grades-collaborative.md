@@ -15,9 +15,11 @@ keywords:
   - students
   - adolescents
 description: "With Personalized Learning Plans (PLPs) mandated for Vermont middle and high schools starting last fall, this summer's institute will explore how teachers, teams and schools can develop flexible pathways that are developmentally appropriate for middle grades students. During the week, participants will attend sessions held specifically for their strand, as well as sessions held for all institute participants."
-datePublished: '2016-05-11T12:34:43.044Z'
-dateModified: '2016-05-11T12:34:41.393Z'
-author: []
+datePublished: '2016-05-11T12:36:19.652Z'
+dateModified: '2016-05-11T12:36:12.154Z'
+author:
+  - name: ''
+    url: ''
 related: []
 app_links: []
 title: Middle Grades Collaborative
@@ -34,4 +36,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Middle Grades Collaborative</h1><p>With Personalized Learning Plans (PLPs) mandated for Vermont middle and high schools starting last fall, this summer's institute will explore how teachers, teams and schools can develop flexible pathways that are developmentally appropriate for middle grades students. During the week, participants will attend sessions held specifically for their strand, as well as sessions held for all institute participants.</p><img src="http://middlegradescollaborative.org/images/MGI_FB4.png" /></article>
+<article style=""><h1>Middle Grades Collaborative</h1><p>With Personalized Learning Plans (PLPs) mandated for Vermont middle and high schools starting last fall, this summer's institute will explore how teachers, teams and schools can develop flexible pathways that are developmentally appropriate for middle grades students. During the week, participants will attend sessions held specifically for their strand, as well as sessions held for all institute participants.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9b1b53d7384f650f326b5bd432199289dba144b2.png" /></article>
