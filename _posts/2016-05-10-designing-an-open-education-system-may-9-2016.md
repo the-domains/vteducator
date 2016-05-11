@@ -16,15 +16,15 @@ keywords:
   - design
   - open
 description: 'Here is a presentation I recently made to the Chittenden South Supervisory Union leadership team, a group of very talented educational leaders. The presentation gave me the opportunity to think more deeply about incorporating Open Education as a design element for systems change in school districts.'
-datePublished: '2016-05-11T16:28:06.234Z'
-dateModified: '2016-05-11T14:17:43.346Z'
+datePublished: '2016-05-11T16:45:26.769Z'
+dateModified: '2016-05-11T16:45:22.442Z'
 author:
   - name: Dan French
     url: 'http://blog.dmfrench.org/?author=1'
     avatar: {}
 related: []
 app_links: []
-title: 'Designing An Open Education System, May'
+title: Designing An Open Education System
 sourcePath: _posts/2016-05-10-designing-an-open-education-system-may-9-2016.md
 authors: []
 publisher:
@@ -37,4 +37,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Designing An Open Education System, May</h1><p>Here is a presentation I recently made to the Chittenden South Supervisory Union leadership team, a group of very talented educational leaders. The presentation gave me the opportunity to think more deeply about incorporating Open Education as a design element for systems change in school districts.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2df68c07064e5fd556606627b72296480dafe28d.jpg" /></article>
+<article style=""><h1>Designing An Open Education System</h1><p>Here is a presentation I recently made to the Chittenden South Supervisory Union leadership team, a group of very talented educational leaders. The presentation gave me the opportunity to think more deeply about incorporating Open Education as a design element for systems change in school districts.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2df68c07064e5fd556606627b72296480dafe28d.jpg" /></article>
