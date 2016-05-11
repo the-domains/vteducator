@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Technology Integration Leader
-datePublished: '2016-05-11T13:27:29.735Z'
-dateModified: '2016-05-11T13:22:43.422Z'
+datePublished: '2016-05-11T13:38:42.880Z'
+dateModified: '2016-05-11T13:38:38.504Z'
 author:
   - name: ''
     url: ''
@@ -26,4 +26,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Portfolio</h1><p>Technology Integration Leader</p></article>
+<article style=""><h1>Portfolio</h1></article>
