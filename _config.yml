@@ -13,16 +13,16 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.3054811672773212
+  saturation: 0.4042553
   brandStrength: 0
-  rhythmicContrast: 0.75
+  lightness: 0.5
   brandColors:
     - '#ffffff'
     - '#92bd3f'
     - '#729356'
     - '#426139'
     - '#c8de9f'
-  lightness: 0.5
+  rhythmicContrast: 0.75
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: VT Educator
 favicon: null
+name: VT Educator
 opengraph:
   image: null
   type: null
