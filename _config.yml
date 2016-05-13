@@ -1,5 +1,34 @@
-title: VT  Educator
-purpose: []
+typography_spectrum: 0.84227
+content_rating:
+  adult: false
+color:
+  saturation: 0.4042553
+  brandStrength: 0
+  lightness: 0.5
+  brandColors:
+    - '#ffffff'
+    - '#92bd3f'
+    - '#729356'
+    - '#426139'
+    - '#c8de9f'
+  rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.6361702
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+author:
+  name: Jeff Badillo
+name: VT Educator
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -12,30 +41,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.4042553
-  brandStrength: 0
-  lightness: 0.5
-  brandColors:
-    - '#ffffff'
-    - '#92bd3f'
-    - '#729356'
-    - '#426139'
-    - '#c8de9f'
-  rhythmicContrast: 0.75
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: VT Educator
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.84227
-layout_spectrum: 0.6361702
+title: VT  Educator
+purpose: []
