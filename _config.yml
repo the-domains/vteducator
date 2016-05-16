@@ -28,7 +28,7 @@ cta:
   bucket: null
   version: null
   domain: null
-favicon: null
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/3bc66e86-a0f3-459e-9a60-ec9bec9881c1.jpg'
 collections:
   - index:
       path: /
