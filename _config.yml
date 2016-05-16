@@ -23,12 +23,13 @@ analytics:
   facebook: null
 author:
   name: Jeff Badillo
+logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/d2d724c9-8aab-40a9-a2f8-609b266d7f3c.png'
 name: VT Educator
 cta:
   bucket: null
   version: null
   domain: null
-favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/3bc66e86-a0f3-459e-9a60-ec9bec9881c1.jpg'
+favicon: null
 collections:
   - index:
       path: /
