@@ -16,8 +16,8 @@ keywords:
   - design
   - open
 description: 'Here is a presentation I recently made to the Chittenden South Supervisory Union leadership team, a group of very talented educational leaders. The presentation gave me the opportunity to think more deeply about incorporating Open Education as a design element for systems change in school districts.'
-datePublished: '2016-05-11T16:45:26.769Z'
-dateModified: '2016-05-11T16:45:22.442Z'
+datePublished: '2016-05-16T16:58:20.102Z'
+dateModified: '2016-05-16T16:58:19.384Z'
 author:
   - name: Dan French
     url: 'http://blog.dmfrench.org/?author=1'
