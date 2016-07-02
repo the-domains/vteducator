@@ -4,7 +4,7 @@
         <description><![CDATA[VT  Educator]]></description>
         <link>http://vteducator.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jul 2016 00:14:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2016 00:14:44 GMT</lastBuildDate>
         <atom:link href="http://vteducator.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Designing An Open Education System]]></title>
@@ -40,6 +40,13 @@
             <link>https://twitter.com/t_heb/status/446267490059173888</link>
             <guid isPermaLink="false">7b76e6df-66c0-4a17-a6a5-cc6b32d04203</guid>
             <pubDate>Wed, 11 May 2016 03:47:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Personal Learning Plans for a Racist and Divided Country]]></title>
+            <description><![CDATA[<article><h1>Personal Learning Plans for a Racist and Divided Country</h1><p>All Vermont middle and high school students are now writing Personal Learning Plans (PLPs). Students articulate values, envision their college or career pathways, and discuss how they'll get there. The Agency of Education provides prompts and guidance. Post-secondary "Individual Student Goals" might include "activities" such as "attending a two- or four-year college, enlisting in the military, enrolling in certificate-granting training programs, or employment."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c25f719e1475b29f7b09e5b707ce724b15233099.jpg"></article>]]></description>
+            <link>http://www.huffingtonpost.com/t-elijah-hawkes/vermonts-learning-plans-f_b_9866314.html?utm_hp_ref=education&amp;ir=Education</link>
+            <guid isPermaLink="false">36b8798b-8913-434a-b818-0afd20cde05e</guid>
+            <pubDate>Tue, 10 May 2016 19:00:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
