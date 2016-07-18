@@ -4,7 +4,7 @@
         <description><![CDATA[VT  Educator]]></description>
         <link>http://vteducator.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jul 2016 03:55:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2016 03:55:15 GMT</lastBuildDate>
         <atom:link href="http://vteducator.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Designing An Open Education System]]></title>
@@ -26,13 +26,6 @@
             <link>http://tech.ed.gov/open-education/</link>
             <guid isPermaLink="false">02afac39-d18e-4ce5-a8b5-ad0f20f0b1e0</guid>
             <pubDate>Thu, 12 May 2016 18:45:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="My visualization of how iPads look in classrooms. Idea sparked by a @terryheick post. What is you visual?pic.twitter.com/dYfSMFESWw" src="https://pbs.twimg.com/media/BjF16uqIcAAU5nE.jpg:large">]]></description>
-            <link>https://twitter.com/t_heb/status/446267490059173888</link>
-            <guid isPermaLink="false">7b76e6df-66c0-4a17-a6a5-cc6b32d04203</guid>
-            <pubDate>Wed, 11 May 2016 03:47:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
