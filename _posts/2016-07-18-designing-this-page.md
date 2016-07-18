@@ -1,15 +1,14 @@
 ---
 description: DESIGNING THIS PAGE
-dateModified: '2016-07-18T03:05:07.301Z'
-datePublished: '2016-07-18T03:05:53.402Z'
+dateModified: '2016-07-18T03:07:19.688Z'
+datePublished: '2016-07-18T03:07:20.179Z'
 title: ''
 author: []
-starred: false
 sourcePath: _posts/2016-07-18-designing-this-page.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: designing-this-page/index.html
+_type: Blurb
 
 ---
 DESIGNING THIS PAGE
