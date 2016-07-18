@@ -31,10 +31,6 @@ cta:
   version: null
   domain: null
 navigation:
-  - id: 1a773cb0-f9b5-4262-9799-93bd313e498a
-    url: 2016-07-18-designing-this-page.html
-    name: About
-    type: content
   - id: 'http://portfolio.vteducator.com/'
     url: 'http://portfolio.vteducator.com/'
     name: Portfolio
