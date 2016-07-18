@@ -35,6 +35,10 @@ navigation:
     url: 'http://portfolio.vteducator.com/'
     name: Portfolio
     type: external
+  - id: 1a773cb0-f9b5-4262-9799-93bd313e498a
+    url: 2016-07-18-designing-this-page.html
+    name: About
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/799b7d14-6f79-4fa6-b52e-70134b113069.png
 collections:
