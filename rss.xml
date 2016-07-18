@@ -4,7 +4,7 @@
         <description><![CDATA[VT  Educator]]></description>
         <link>http://vteducator.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jul 2016 03:55:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2016 03:55:28 GMT</lastBuildDate>
         <atom:link href="http://vteducator.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Designing An Open Education System]]></title>
@@ -14,18 +14,18 @@
             <pubDate>Mon, 16 May 2016 16:58:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Open Education | Office of Educational Technology]]></title>
+            <description><![CDATA[<article><h1>Open Education | Office of Educational Technology</h1><p>We believe that educational opportunities should be available to all learners. Creating an open education ecosystem involves making learning materials, data, and educational opportunities available without restrictions imposed by copyright laws, access barriers, or exclusive proprietary systems that lack interoperability and limit the free exchange of information.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9404a63c8c6818a95a99290ae7fd09114fa90aa3.jpg"></article>]]></description>
+            <link>http://tech.ed.gov/open-education/</link>
+            <guid isPermaLink="false">02afac39-d18e-4ce5-a8b5-ad0f20f0b1e0</guid>
+            <pubDate>Mon, 18 Jul 2016 03:55:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[What is Design Thinking (2015)]]></title>
             <description><![CDATA[<article><h1>What is Design Thinking (2015)</h1><p>Design Thinking. Brought to you by Daylight Design. Suppose you are part of a thriving business and need to branch out and find that next big thing. Or say you want to change a behavior, like getting people...a lot of people...to use less energy in their homes. How would you go about it?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/723022e13607cfb830a8e2b6f81310e3188c0556.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=0V5BwTrQOCs&amp;feature=youtu.be</link>
             <guid isPermaLink="false">fb8407dc-ac65-41a2-b413-40d853473fb0</guid>
             <pubDate>Fri, 20 May 2016 17:45:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Open Education | Office of Educational Technology]]></title>
-            <description><![CDATA[<article><h1>Open Education | Office of Educational Technology</h1><p>We believe that educational opportunities should be available to all learners. Creating an open education ecosystem involves making learning materials, data, and educational opportunities available without restrictions imposed by copyright laws, access barriers, or exclusive proprietary systems that lack interoperability and limit the free exchange of information.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9404a63c8c6818a95a99290ae7fd09114fa90aa3.jpg"></article>]]></description>
-            <link>http://tech.ed.gov/open-education/</link>
-            <guid isPermaLink="false">02afac39-d18e-4ce5-a8b5-ad0f20f0b1e0</guid>
-            <pubDate>Thu, 12 May 2016 18:45:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
