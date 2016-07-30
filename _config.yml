@@ -24,8 +24,7 @@ analytics:
 author:
   name: Jeff Badillo
   email: jbadillo@vteducator.com
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/451643f0-6887-415b-ac38-0b819824211b.jpg
+logo: null
 name: VT Educator
 cta:
   bucket: null
