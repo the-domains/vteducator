@@ -1,28 +1,35 @@
-title: VT  Educator
-purpose: []
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
+typography_spectrum: 0.7620586997363716
+content_rating:
+  adult: false
 color:
   saturation: 0.4042553
   brandStrength: 0
-  rhythmicContrast: 0.75
+  lightness: 0.5
   brandColors:
     - '#ffffff'
     - '#92bd3f'
     - '#729356'
     - '#426139'
     - '#c8de9f'
-  lightness: 0.5
+  rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.9275556260254234
+analytics:
+  twitter: null
+  google: UA-59206840-2
+  facebook: null
+author:
+  name: Jeff Badillo
+  email: jbadillo@vteducator.com
+logo: null
+name: VT Educator
+cta:
+  bucket: null
+  version: null
+  domain: null
 navigation:
   - name: Home
     url: 'http://vteducator.com'
@@ -30,26 +37,19 @@ navigation:
   - name: Portfolio
     url: 'http://portfolio.vteducator.com/'
     type: external
-cta:
-  bucket: null
-  version: null
-  domain: null
-name: VT Educator
-author:
-  name: Jeff Badillo
-  email: jbadillo@vteducator.com
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/799b7d14-6f79-4fa6-b52e-70134b113069.png
-opengraph:
-  image: null
-  type: null
-  appId: null
-analytics:
-  twitter: null
-  google: UA-59206840-2
-  facebook: null
-logo: null
-typography_spectrum: 0.9
-layout_spectrum: 0.9275556260254234
-content_rating:
-  adult: false
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+title: ''
+purpose: []
