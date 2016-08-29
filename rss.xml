@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[VT  Educator]]></title>
-        <description><![CDATA[VT  Educator]]></description>
+        <title><![CDATA[VT Educator]]></title>
+        <description><![CDATA[VT Educator]]></description>
         <link>http://vteducator.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jul 2016 03:55:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2016 01:58:15 GMT</lastBuildDate>
         <atom:link href="http://vteducator.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Designing An Open Education System]]></title>
@@ -12,6 +12,13 @@
             <link>http://blog.dmfrench.org/?p=534</link>
             <guid isPermaLink="false">65cc0637-4bd2-4412-a2da-7720649f8705</guid>
             <pubDate>Mon, 16 May 2016 16:58:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Amazing project-based learning "doodle" by @katyfarber #artsy #educational #eduart? #pbl]]></title>
+            <description><![CDATA[<article><h1>Amazing project-based learning "doodle" by @katyfarber #artsy #educational #eduart? #pbl</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ea857cd770187a54933214dafb46ea9d/noop.jpg?input=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fsh0.08%2Fe35%2Fp640x640%2F14052716_197442567337951_770084613_n.jpg%3Fig_cache_key%3DMTMyMzM0MDAxNTEyNDQ3MjU5OA%253D%253D.2"></article>]]></description>
+            <link>https://www.instagram.com/p/BJdcrt-jeMW/?taken-by=innovativeeducation</link>
+            <guid isPermaLink="false">b3175f43-6a2f-4f7b-91ba-80f7618e9ff3</guid>
+            <pubDate>Sun, 28 Aug 2016 01:58:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Open Education | Office of Educational Technology]]></title>
