@@ -15,9 +15,13 @@ keywords:
   - chittenden
   - design
   - open
-description: 'Here is a presentation I recently made to the Chittenden South Supervisory Union leadership team, a group of very talented educational leaders. The presentation gave me the opportunity to think more deeply about incorporating Open Education as a design element for systems change in school districts.'
-datePublished: '2016-05-16T16:58:34.555Z'
-dateModified: '2016-05-16T16:58:34.129Z'
+description: >-
+  Here is a presentation I recently made to the Chittenden South Supervisory
+  Union leadership team, a group of very talented educational leaders. The
+  presentation gave me the opportunity to think more deeply about incorporating
+  Open Education as a design element for systems change in school districts.
+datePublished: '2016-08-28T18:43:09.971Z'
+dateModified: '2016-08-28T18:43:08.335Z'
 author:
   - name: Dan French
     url: 'http://blog.dmfrench.org/?author=1'
@@ -28,11 +32,12 @@ title: Designing An Open Education System
 sourcePath: _posts/2016-05-10-designing-an-open-education-system-may-9-2016.md
 authors: []
 publisher:
-  name: Dr. Daniel M. French
+  name: ''
   domain: blog.dmfrench.org
   url: 'http://blog.dmfrench.org'
   favicon: 'http://blog.dmfrench.org/favicon.ico'
-starred: true
+via: {}
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
