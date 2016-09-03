@@ -26,7 +26,7 @@ author:
   email: jbadillo@vteducator.com
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb5f7855-c503-43fa-819a-ba10e6af563f.jpg
-name: VT Educator
+name: VT EDUCATOR
 cta:
   bucket: null
   version: null
@@ -56,5 +56,5 @@ collections:
       format: rss
       number: 10
 title: VT EDUCATOR
-description: VT EDUCATOR
+description: ''
 purpose: []
