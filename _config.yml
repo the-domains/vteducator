@@ -1,5 +1,6 @@
-layout_spectrum: 0.5474175109993666
 typography_spectrum: 0.8659046969842166
+content_rating:
+  adult: false
 color:
   saturation: 0.4042553
   brandStrength: 0
@@ -11,12 +12,11 @@ color:
     - '#426139'
     - '#c8de9f'
   rhythmicContrast: 0.75
-content_rating:
-  adult: false
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.5474175109993666
 analytics:
   twitter: null
   google: UA-59206840-2
@@ -24,6 +24,7 @@ analytics:
 author:
   name: Jeff Badillo
   email: jbadillo@vteducator.com
+  url: vteducator.com
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb5f7855-c503-43fa-819a-ba10e6af563f.jpg
 name: VT EDUCATOR
