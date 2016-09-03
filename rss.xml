@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[VT Educator]]></title>
-        <description><![CDATA[VT Educator]]></description>
+        <title><![CDATA[VT EDUCATOR]]></title>
+        <description><![CDATA[VT EDUCATOR]]></description>
         <link>http://vteducator.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Aug 2016 18:42:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 18:46:31 GMT</lastBuildDate>
         <atom:link href="http://vteducator.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/27e401ef-845e-4b79-babb-951faf7445ab.jpg">]]></description>
+            <link>http://vteducator.com/8159ef57-6edb-43d7-ac66-f0c10880b49f/index.html</link>
+            <guid isPermaLink="false">8159ef57-6edb-43d7-ac66-f0c10880b49f</guid>
+            <pubDate>Wed, 31 Aug 2016 18:37:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Designing An Open Education System]]></title>
             <description><![CDATA[<article><h1>Designing An Open Education System</h1><p>Here is a presentation I recently made to the Chittenden South Supervisory Union leadership team, a group of very talented educational leaders. The presentation gave me the opportunity to think more deeply about incorporating Open Education as a design element for systems change in school districts.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2df68c07064e5fd556606627b72296480dafe28d.jpg"></article>]]></description>
             <link>http://blog.dmfrench.org/?p=534</link>
             <guid isPermaLink="false">65cc0637-4bd2-4412-a2da-7720649f8705</guid>
-            <pubDate>Mon, 16 May 2016 16:58:34 GMT</pubDate>
+            <pubDate>Sun, 28 Aug 2016 18:43:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Open Education | Office of Educational Technology]]></title>
@@ -19,13 +26,6 @@
             <link>http://tech.ed.gov/open-education/</link>
             <guid isPermaLink="false">02afac39-d18e-4ce5-a8b5-ad0f20f0b1e0</guid>
             <pubDate>Mon, 18 Jul 2016 03:55:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What is Design Thinking (2015)]]></title>
-            <description><![CDATA[<article><h1>What is Design Thinking (2015)</h1><p>Design Thinking. Brought to you by Daylight Design. Suppose you are part of a thriving business and need to branch out and find that next big thing. Or say you want to change a behavior, like getting people...a lot of people...to use less energy in their homes. How would you go about it?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/723022e13607cfb830a8e2b6f81310e3188c0556.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=0V5BwTrQOCs&amp;feature=youtu.be</link>
-            <guid isPermaLink="false">fb8407dc-ac65-41a2-b413-40d853473fb0</guid>
-            <pubDate>Fri, 20 May 2016 17:45:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
