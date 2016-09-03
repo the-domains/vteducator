@@ -24,7 +24,8 @@ analytics:
 author:
   name: Jeff Badillo
   email: jbadillo@vteducator.com
-logo: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb5f7855-c503-43fa-819a-ba10e6af563f.jpg
 name: VT Educator
 cta:
   bucket: null
@@ -40,7 +41,8 @@ navigation:
   - name: '@Jeff_Badillo'
     url: 'https://twitter.com/Jeff_Badillo'
     type: external
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/79d99577-8185-4eb8-8fc8-245621b476e0.jpg
 collections:
   - index:
       path: /
