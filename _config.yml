@@ -36,15 +36,15 @@ navigation:
   - name: Home
     url: 'http://vteducator.com'
     type: external
+  - name: About
+    id: 9f1b54c6-6ba2-4b1b-b619-a8507abb2f22
+    type: content
   - name: Portfolio
     url: 'http://portfolio.vteducator.com/'
     type: external
   - name: '@Jeff_Badillo'
     url: 'https://twitter.com/Jeff_Badillo'
     type: external
-  - name: About
-    id: 9f1b54c6-6ba2-4b1b-b619-a8507abb2f22
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/79d99577-8185-4eb8-8fc8-245621b476e0.jpg
 collections:
