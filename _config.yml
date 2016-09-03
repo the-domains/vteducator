@@ -40,8 +40,7 @@ navigation:
   - name: '@Jeff_Badillo'
     url: 'https://twitter.com/Jeff_Badillo'
     type: external
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e44d9435-9673-48d0-b643-fbc391df2ad5.jpg
+favicon: null
 collections:
   - index:
       path: /
