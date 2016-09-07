@@ -1,4 +1,4 @@
-typography_spectrum: 0.8659046969842166
+typography_spectrum: 0.9383841711096466
 content_rating:
   adult: false
 color:
@@ -16,7 +16,7 @@ opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.5474175109993666
+layout_spectrum: 0.9275556260254234
 analytics:
   twitter: null
   google: UA-59206840-2
@@ -24,10 +24,9 @@ analytics:
 author:
   name: Jeff Badillo
   email: jbadillo@vteducator.com
-  url: vteducator.com
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb5f7855-c503-43fa-819a-ba10e6af563f.jpg
-name: VT EDUCATOR
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9975ff8-4894-49a6-bca2-6ac07002d3ea.jpg
+name: VT Educator
 cta:
   bucket: null
   version: null
@@ -36,9 +35,6 @@ navigation:
   - name: Home
     url: 'http://vteducator.com'
     type: external
-  - name: About
-    id: 9f1b54c6-6ba2-4b1b-b619-a8507abb2f22
-    type: content
   - name: Portfolio
     url: 'http://portfolio.vteducator.com/'
     type: external
@@ -46,7 +42,7 @@ navigation:
     url: 'https://twitter.com/Jeff_Badillo'
     type: external
 favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/79d99577-8185-4eb8-8fc8-245621b476e0.jpg
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e44d9435-9673-48d0-b643-fbc391df2ad5.jpg
 collections:
   - index:
       path: /
